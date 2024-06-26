@@ -8,6 +8,7 @@ namespace MangoServices.CouponAPI.Data
 
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) {
+
         }
 
         //name of table in database
